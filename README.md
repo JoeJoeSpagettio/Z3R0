@@ -1,6 +1,11 @@
 # Z3R0
 A Discord-js bot teplate with a list of starting commands
 
+```
+WARNING - This bot is deprecated. It will not recieve updates any further.
+This is purely an archive to remember the basics of things I did
+```
+
 This is an upgraded version of Spotlight, reworked to support slash commands and work with other new discord features.
 
 Some commands include but are not limited to:
